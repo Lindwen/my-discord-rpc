@@ -1,0 +1,20 @@
+{
+    "clientId": "LE CLIENT ID DE VOTRE APPLICATION",
+    "details": "",
+    "state": "",
+    "largeImageKey": "",
+    "largeImageText": "",
+    "smallImageKey": "",
+    "smallImageText": "",
+    "instance": false,
+    "buttons": [
+        {
+            "label": "",
+            "url": "n"
+        },
+        {
+            "label": "",
+            "url": ""
+        }
+    ]
+}

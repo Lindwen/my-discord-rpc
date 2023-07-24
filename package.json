@@ -1,0 +1,13 @@
+{
+  "name": "my-discord-rpc",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "author": "Lindwen <34105327+Lindwen@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
