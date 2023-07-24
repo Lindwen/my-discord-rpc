@@ -1,6 +1,7 @@
 {
   "name": "my-discord-rpc",
   "version": "1.0.0",
+  "description": "Discord Rich Presence for My Summer Car",
   "main": "src/app.js",
   "author": "Lindwen <34105327+Lindwen@users.noreply.github.com>",
   "license": "MIT",
