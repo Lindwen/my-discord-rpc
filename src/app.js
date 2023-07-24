@@ -1,5 +1,5 @@
 const DiscordRPC = require('discord-rpc');
-const config = require('../config.matancy.json');
+const config = require('../config.json');
 
 const clientId = config.clientId;
 
