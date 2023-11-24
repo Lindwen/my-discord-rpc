@@ -14,6 +14,7 @@
 ## Install
 
 ```sh
+yarn install
 yarn start
 ```
 
